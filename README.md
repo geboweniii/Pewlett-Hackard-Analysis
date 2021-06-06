@@ -16,6 +16,12 @@ The following comma-separated value (CSV) files were provided as data sources. T
 
 ## Results
 
+### Major Points
+* There are 45,397 senior, assistant and general engineers approaching retirement
+* 64.8% of engineers approaching retirement are senior (29,414)
+* There are 1,549 employees who eligible for the mentorship program
+* 48.2% of the employees eligible for the mentorship program are either senior, assistant or general engineers.
+
 ### Outputs
 The products of this analysis are below.
 * Employee_Database_challenge.sql - This file contains the SQL statements used to generate the outputs.
